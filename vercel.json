@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://www.mixclps.site/p/v1.html",
+      "permanent": false
+    }
+  ]
+}
